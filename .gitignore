@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Blitzdb store
+./compeatup-db
+
 # C extensions
 *.so
 
